@@ -1,0 +1,19 @@
+h1{
+    border: 10;
+    color: red;
+    background-color: blue;
+}
+
+/* #image{
+    border: 10px solid  ;
+} */
+
+.image{
+    width: 2000px;
+    height: 100%;
+    border: 10px solid blue;
+ 
+    max-width: 100%;
+    max-height: 100%;
+}
+
